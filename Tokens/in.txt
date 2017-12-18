@@ -1,0 +1,5 @@
+var a = 100;/*a sentence*/
+var b = 2.2;
+var c = 2.2.2;
+if(a+2>=300)then b = 5.5;
+else b = 3.3;
