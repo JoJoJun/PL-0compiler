@@ -1,0 +1,9 @@
+const b=2;
+var a,c,d,e;
+begin
+read(a);
+c:=3;
+read(e);
+d:=a+c*2-e;
+write(d)
+end.

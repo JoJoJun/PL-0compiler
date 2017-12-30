@@ -1,0 +1,10 @@
+const a = 5;
+var i;
+begin
+i:=2;
+while i<5 do
+begin
+write(i);
+i := i+1
+end
+end.

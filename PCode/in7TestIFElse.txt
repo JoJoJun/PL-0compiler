@@ -1,0 +1,7 @@
+const a = 27;
+var b,c,d,i;
+begin
+ b:=1;c:=2;d:=3;i:=4;
+ if b<c then write(d);
+ if c>d then write(c) else write(i)
+end.
