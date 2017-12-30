@@ -1,9 +1,0 @@
-F:\vs\demos\compilerCplusFour\compilerCplusFour\bin\Debug\compilerCplusFour.exe.config
-F:\vs\demos\compilerCplusFour\compilerCplusFour\obj\Debug\compilerCplusFour.csprojResolveAssemblyReference.cache
-F:\vs\demos\compilerCplusFour\compilerCplusFour\obj\Debug\compilerCplusFour.Form1.resources
-F:\vs\demos\compilerCplusFour\compilerCplusFour\obj\Debug\compilerCplusFour.Properties.Resources.resources
-F:\vs\demos\compilerCplusFour\compilerCplusFour\obj\Debug\compilerCplusFour.csproj.GenerateResource.Cache
-F:\vs\demos\compilerCplusFour\compilerCplusFour\bin\Debug\compilerCplusFour.exe
-F:\vs\demos\compilerCplusFour\compilerCplusFour\bin\Debug\compilerCplusFour.pdb
-F:\vs\demos\compilerCplusFour\compilerCplusFour\obj\Debug\compilerCplusFour.exe
-F:\vs\demos\compilerCplusFour\compilerCplusFour\obj\Debug\compilerCplusFour.pdb
